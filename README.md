@@ -1,4 +1,4 @@
 cbmeeks.github.com
 ==================
 
-My personal ramblings
+The personal ramblings of an insane programmer that never sleeps.
